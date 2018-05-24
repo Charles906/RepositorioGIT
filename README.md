@@ -1,139 +1,38 @@
 # MODELADO Y VALIDACIÓN DE ARQUITECTURA
 
-## TALLER #1 - README
+## README TALLER #1
 
+## SOLUCIÓN - PAGO DE SERVICIOS PÚBLICOS
 
-
-
-
-
-
-
-INTEGRANTES
+## INTEGRANTES
 
 ANGELICA MARIA VERGARA GRANADOS
+
 CARLOS FRANCISCO CORZO CASTAÑEDA
+
 JAVIER ANDRÉS CARRANZA BARRAGAN
+
 CARLOS DAVID BERNAL PÉREZ
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DOCUMENTO ARQUITECTURA DE LA SOLUCION
-"PAGO DE SERVICIOS PÚBLICOS" 
-Versión	Fecha	Descripción de la modificación
-1.0
-	20/05/2018	Documento de arquitectura de la solución "Pago de servicios públicos", en donde se busca detallar y ajustar la arquitectura del sistema partiendo de un contexto y unas restricciones especificadas en el taller.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tabla de Contenido
-
-1.	Introducción	3
-1.1 Objetivo	3
-1.2 Definiciones, Acrónimos y Abreviaturas	3
-1.3 Referencias	3
-1.4 Alcance	3
-2.	Contexto	4
-2.1 Fundamentos de la solución	4
-3.	Drivers de Arquitectura	4
-3.1 Objetivos de la arquitectura de la solución	4
-3.2 Requerimientos Funcionales Significativos	4
-3.3 Restricciones	5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Tabla de Contenido
 
 1.	Introducción
+
+1.1 Objetivo
+
+2.	Contexto
+
+2.1 Decisiones arquitecturales de la solución
+
+3.	Drivers de Arquitectura
+
+3.1 Objetivos de la arquitectura de la solución
+
+3.2 Requerimientos Funcionales Significativos
+
+3.3 Restricciones
+
+## 1.	Introducción
 El presente documento proporciona una descripción de la arquitectura de la solución "Pago de servicios públicos". Pretende dar a entender a analistas, desarrolladores y arquitectos un punto de partida en el diseño y desarrollo de la aplicación, además de la divulgación de las decisiones arquitecturales tomadas de acuerdo al contexto de la solución y sus restricciones.
 
 1.1 Objetivo
